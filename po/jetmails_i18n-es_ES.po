@@ -1,0 +1,217 @@
+# Translation of the WordPress plugin JetMails Subscribe Form 1.0.1 by JetMails.com.
+# Copyright (C) 2010 JetMails.com
+# This file is distributed under the same license as the JetMails Subscribe Form package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: JetMails Subscribe Form 1.0.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/jetmails-subscribe-form\n"
+"POT-Creation-Date: 2010-03-03 16:00-0300\n"
+"PO-Revision-Date: 2010-03-25 21:25-0300\n"
+"Last-Translator: Info <info@jetmails.com>\n"
+"Language-Team: JetMails Team <info@jetmails.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: SPAIN\n"
+
+#: jetmails-subscribe-form.php:53
+msgid "You must fill in"
+msgstr "Ingrese los datos"
+
+#: jetmails-subscribe-form.php:53
+msgid "Email Address"
+msgstr "eMail"
+
+#: jetmails-subscribe-form.php:60
+msgid "That email address is already subscribed to the list"
+msgstr "El eMail ingresado ya se encuentra suscripto a la lista"
+
+#: jetmails-subscribe-form.php:62
+msgid "That email address is invalid"
+msgstr "El eMail es inválido"
+
+#: jetmails-subscribe-form.php:68
+msgid "Success, you've been signed up! Please look for our confirmation email!"
+msgstr "Gracias, le hemos enviado un mail con un enlace para confirmar que la dirección es válida"
+
+#: jetmails-subscribe-form.php:105
+msgid "required field"
+msgstr "campo obligatorio"
+
+#: jetmails-subscribe-form.php:170
+msgid "JetMails Subs Form Setup"
+msgstr "JetMails Configuración"
+
+#: jetmails-subscribe-form.php:170
+msgid "JetMails Form Setup"
+msgstr "JetMails Configuración"
+
+#: jetmails-subscribe-form.php:187
+msgid "JetMails List Setup"
+msgstr "Configuración de lista de JetMails"
+
+#: jetmails-subscribe-form.php:197
+msgid "Success! We were able to verify your username & password! Let's continue, shall we?"
+msgstr "Hemos verificado correctamente su usuario y clave."
+
+#: jetmails-subscribe-form.php:212
+msgid "Uh-oh, we were unable to login and verify your username & password. Please check them and try again!"
+msgstr "Oops! No hemos reconocido su usuario y/o clave. Por favor verifíquelo e intente nuevamente."
+
+#: jetmails-subscribe-form.php:213
+msgid "The server said:"
+msgstr "Mensaje del servidor:"
+
+#: jetmails-subscribe-form.php:244
+msgid "Sign up for"
+msgstr "Registrate a"
+
+#: jetmails-subscribe-form.php:245
+msgid "Subscribe"
+msgstr "Suscribir"
+
+#: jetmails-subscribe-form.php:249
+#, php-format
+msgid "Success! Loaded and saved the info for %d Merge Variables"
+msgstr "¡Correcto! Información cargada y guardada (%d) "
+
+#: jetmails-subscribe-form.php:252
+msgid "Now you should either Turn On the JetMails Widget or change your options below, then turn it on."
+msgstr "Ahora debe ACTIVAR el Widget de JetMails o modificar las opciones más abajo y luego ACTIVAR."
+
+#: jetmails-subscribe-form.php:265
+msgid "Successfully Reset your List selection... Now you get to pick again!"
+msgstr "Hemos limpiado su selección de lista... Ahora puede elegir nuevamente."
+
+#: jetmails-subscribe-form.php:279
+msgid "Successfully Updated your List Subscribe Form Settings!"
+msgstr "Hemos actualizado la configuración del formulario de suscripción a su lista"
+
+#: jetmails-subscribe-form.php:292
+msgid "Login Info"
+msgstr "Información de Login"
+
+#: jetmails-subscribe-form.php:293
+msgid "To start using the JetMails plugin, we first need to login and get your API Key. Please enter your JetMails username and password below."
+msgstr "Para comenzar a utilizar el plugin de JetMails se requiere estar logueado y obtener la clave de la API. Por favor ingrese su usuario y clave."
+
+#: jetmails-subscribe-form.php:295
+msgid "Don't have a JetMails account? <a href='http://www.jetmails.com/' target='_blank'>Register here</a>"
+msgstr "¿Aún no tiene una cuenta de JetMails? <a href='http://www.jetmails.com/' target='_blank'>Regístrese aquí</a>"
+
+#: jetmails-subscribe-form.php:299
+msgid "Username"
+msgstr "Usuario"
+
+#: jetmails-subscribe-form.php:303
+msgid "Password"
+msgstr "Clave"
+
+#: jetmails-subscribe-form.php:309
+msgid "Save & Check"
+msgstr "Verificar y Guardar"
+
+#: jetmails-subscribe-form.php:314
+msgid "Notes"
+msgstr "Notas"
+
+#: jetmails-subscribe-form.php:315
+msgid "Changing your settings at JetMails.com may cause this to stop working."
+msgstr "Modificar la configuración de su cuenta en JetMails.com puede provocar que este plugin no funcione correctamente."
+
+#: jetmails-subscribe-form.php:316
+msgid "If you change your login to a different account, the info you have setup below will be erased."
+msgstr "¡Ojo! Si modifica su cuenta, la información de configuración será borrada."
+
+#: jetmails-subscribe-form.php:317
+msgid "If any of that happens, no biggie - just reconfigure your login and the items below..."
+msgstr "Si algo de esto sucede, no hay problemas - reconfigure sus datos de acceso y demás información."
+
+#: jetmails-subscribe-form.php:323
+msgid "Logged in as"
+msgstr "Ingresó como"
+
+#: jetmails-subscribe-form.php:327
+msgid "Logout"
+msgstr "Salir"
+
+#: jetmails-subscribe-form.php:341
+msgid "Your Lists"
+msgstr "Mis listas"
+
+#: jetmails-subscribe-form.php:343
+msgid "Please select the List you wish to create a Signup Form for."
+msgstr "Seleccione la lista para la cual quiere crear el formulario de suscripción."
+
+#: jetmails-subscribe-form.php:352
+#, php-format
+msgid "Uh-oh, you don't have any lists defined! Please visit %s, login, and setup a list before using this tool!"
+msgstr "Oops! No ha seleccionado ninguna lista! Por favor ingrese a %s con su nombre de usuario y clave y configure una lista antes de usar esta herramienta."
+
+#: jetmails-subscribe-form.php:357
+msgid "Select A List"
+msgstr "Seleccione una lista"
+
+#: jetmails-subscribe-form.php:370
+msgid "Update List"
+msgstr "Actualizar lista"
+
+#: jetmails-subscribe-form.php:373
+msgid "Note:"
+msgstr "Nota:"
+
+#: jetmails-subscribe-form.php:373
+msgid "Updating your list will not cause settings below to be lost. Changing to a new list will."
+msgstr "Puede actualizar su lista sin problemas"
+
+#: jetmails-subscribe-form.php:391
+msgid "Reset List Options and Select again"
+msgstr "Limpiar las opciones de lista y seleccionar nuevamente"
+
+#: jetmails-subscribe-form.php:394
+msgid "Subscribe Form Widget Settings for this List"
+msgstr "Configuración del widget del formulario de suscripción para esta lista"
+
+#: jetmails-subscribe-form.php:395
+msgid "Selected JetMails List"
+msgstr "Lista de JetMails seleccionada"
+
+#: jetmails-subscribe-form.php:406
+#: jetmails-subscribe-form.php:426
+msgid "Update Subscribe Form Settings"
+msgstr "Actualizar configuración de formulario de suscripción"
+
+#: jetmails-subscribe-form.php:409
+msgid "Header content"
+msgstr "Contenido del encabezado"
+
+#: jetmails-subscribe-form.php:412
+msgid "You can fill this with your own Text, HTML markup (including image links), or Nothing!"
+msgstr "Puede poner aquí su propio texto, código HTML (incluídos links a imágenes) o si lo prefiere no ponga nada."
+
+#: jetmails-subscribe-form.php:417
+msgid "Submit Button text"
+msgstr "Texto del botón para suscribirse"
+
+#. Plugin Name of an extension
+msgid "JetMails Subscribe Form"
+msgstr "Formulario de suscripción de JetMails"
+
+#. #-#-#-#-#  new_po (JetMails Subscribe Form 1.0.1)  #-#-#-#-#
+#. Plugin URI of an extension
+#. #-#-#-#-#  new_po (JetMails Subscribe Form 1.0.1)  #-#-#-#-#
+#. Author URI of an extension
+msgid "http://www.jetmails.com/"
+msgstr "http://www.JetMails.com/"
+
+#. Description of an extension
+msgid "The jetMails plugin allows you to easily setup a subscribe form for your list."
+msgstr "El plugin de JetMails le permite configurar fácilmente un formulario de suscripción para sus listas."
+
+#. Author of an extension
+msgid "JetMails.com"
+msgstr "JetMails.com"
+
